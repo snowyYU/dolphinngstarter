@@ -25,7 +25,7 @@
         "styles.css"
       ],
       "scripts": [
-        "../node_modules/dolphinng/assets/libs/laydate/js/laydate.js"
+        
       ],
       "environmentSource": "environments/environment.ts",
       "environments": {
